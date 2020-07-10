@@ -4,7 +4,7 @@ Prof. Sujeong Ryu
 
 #### Contents
 BIOLOGY_hyper
-![hyper](https://github.com/conatusss/conatusss.github.io/blob/master/assets/hyper.png)
+![hyper](https://github.com/conatusss/BIOLOGY_hyper/blob/master/hyper.png)
 
 I. 세포의 에너지 - 1)세포의구성분자.pdf
 (https://github.com/conatusss/BIOLOGY_hyper/blob/master/I.%20%EC%84%B8%ED%8F%AC%EC%9D%98%20%EC%97%90%EB%84%88%EC%A7%80/I.%20%EC%84%B8%ED%8F%AC%EC%9D%98%20%EC%97%90%EB%84%88%EC%A7%80%20-%201%EC%84%B8%ED%8F%AC%EC%9D%98%EA%B5%AC%EC%84%B1%EB%B6%84%EC%9E%90.pdf)
