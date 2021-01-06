@@ -1,5 +1,5 @@
 # BIOLOGY_hyper
-Chungnam Science High School
+고급생명과학 @ Chungnam Science High School
 Prof. Sujeong Ryu
 
 #### Contents
