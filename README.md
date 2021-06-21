@@ -1,48 +1,33 @@
 # BIOLOGY_hyper
+
 고급생명과학 @ Chungnam Science High School
 Prof. Sujeong Ryu
 
 #### Contents
-BIOLOGY_hyper
 
 
-![hyper](https://github.com/conatusss/BIOLOGY_hyper/blob/master/hyper.png)
+![image](https://user-images.githubusercontent.com/46957634/122725739-40e8ae80-d2b0-11eb-9062-57b26934214e.png)
 
-I. 세포의 에너지 - 1)세포의구성분자.pdf
-(https://github.com/conatusss/BIOLOGY_hyper/blob/master/I.%20%EC%84%B8%ED%8F%AC%EC%9D%98%20%EC%97%90%EB%84%88%EC%A7%80/I.%20%EC%84%B8%ED%8F%AC%EC%9D%98%20%EC%97%90%EB%84%88%EC%A7%80%20-%201%EC%84%B8%ED%8F%AC%EC%9D%98%EA%B5%AC%EC%84%B1%EB%B6%84%EC%9E%90.pdf)
+[고급생명과학](https://drive.google.com/drive/folders/1KvOsbvJYGE2uNT1dYWdIQYo13MKsNjiz?usp=sharing)
 
-I. 세포의 에너지 - 2)광합성 + 외호흡내호흡.pdf
+1. [세포의 에너지](https://drive.google.com/drive/folders/1mxzEYzJYr-EEmoslbZV-3EC-bR6Koi2R?usp=sharing)
+   1. 세포의 구성분자
 
-(https://github.com/conatusss/BIOLOGY_hyper/blob/master/I.%20%EC%84%B8%ED%8F%AC%EC%9D%98%20%EC%97%90%EB%84%88%EC%A7%80/I.%20%EC%84%B8%ED%8F%AC%EC%9D%98%20%EC%97%90%EB%84%88%EC%A7%80%20-%202%EA%B4%91%ED%95%A9%EC%84%B1%20%2B%20%EC%99%B8%ED%98%B8%ED%9D%A1%EB%82%B4%ED%98%B8%ED%9D%A1.pdf)
+   2. 광합성, 외호흡과 내호흡
 
-I. 세포의 에너지 - 3)세포호흡.pdf
-
-(https://github.com/conatusss/BIOLOGY_hyper/blob/master/I.%20%EC%84%B8%ED%8F%AC%EC%9D%98%20%EC%97%90%EB%84%88%EC%A7%80/I.%20%EC%84%B8%ED%8F%AC%EC%9D%98%20%EC%97%90%EB%84%88%EC%A7%80%20-%203%EC%84%B8%ED%8F%AC%ED%98%B8%ED%9D%A1.pdf)
+   3. 세포 호흡
 
 
-II. 생물의조절과방어 - 1)신경에의한조절.pdf
+2. [생물의 조절과 방어](https://drive.google.com/drive/folders/1LW9HxtvE7_PHEYgcpdXebvcqH9HL4UPE?usp=sharing)
 
-(https://github.com/conatusss/BIOLOGY_hyper/blob/master/II.%20%EC%83%9D%EB%AC%BC%EC%9D%98%20%EC%A1%B0%EC%A0%88%EA%B3%BC%20%EB%B0%A9%EC%96%B4/II.%20%EC%83%9D%EB%AC%BC%EC%9D%98%EC%A1%B0%EC%A0%88%EA%B3%BC%EB%B0%A9%EC%96%B4%20-%201%EC%8B%A0%EA%B2%BD%EC%97%90%EC%9D%98%ED%95%9C%EC%A1%B0%EC%A0%88.pdf)
+   1. 신경에 의한 조절
 
-II. 생물의조절과방어 - 2)호르몬에의한조절.pdf
+   2. 호르몬에 의한 조절
 
-(https://github.com/conatusss/BIOLOGY_hyper/blob/master/II.%20%EC%83%9D%EB%AC%BC%EC%9D%98%20%EC%A1%B0%EC%A0%88%EA%B3%BC%20%EB%B0%A9%EC%96%B4/II.%20%EC%83%9D%EB%AC%BC%EC%9D%98%EC%A1%B0%EC%A0%88%EA%B3%BC%EB%B0%A9%EC%96%B4%20-%202%ED%98%B8%EB%A5%B4%EB%AA%AC%EC%97%90%EC%9D%98%ED%95%9C%EC%A1%B0%EC%A0%88.pdf)
+   3. 면역 1, 2
 
-II. 생물의 조절과 방어-3. 면역.pdf
+3. [유전자의 구조와 발현](https://drive.google.com/drive/folders/1OyJ6ChE7bqgPN5-GJaKmmFYKD6rcLuon?usp=sharing)
 
-(https://github.com/conatusss/BIOLOGY_hyper/blob/master/II.%20%EC%83%9D%EB%AC%BC%EC%9D%98%20%EC%A1%B0%EC%A0%88%EA%B3%BC%20%EB%B0%A9%EC%96%B4/II.%20%EC%83%9D%EB%AC%BC%EC%9D%98%20%EC%A1%B0%EC%A0%88%EA%B3%BC%20%EB%B0%A9%EC%96%B4-3.%20%EB%A9%B4%EC%97%AD.pdf)
+   1.  염색체
 
-II. 생물의 조절과 방어-3. 면역2.pdf
-
-(https://github.com/conatusss/BIOLOGY_hyper/blob/master/II.%20%EC%83%9D%EB%AC%BC%EC%9D%98%20%EC%A1%B0%EC%A0%88%EA%B3%BC%20%EB%B0%A9%EC%96%B4/II.%20%EC%83%9D%EB%AC%BC%EC%9D%98%20%EC%A1%B0%EC%A0%88%EA%B3%BC%20%EB%B0%A9%EC%96%B4-3.%20%EB%A9%B4%EC%97%AD2.pdf)
-
-
-
-III. 유전자의 구조와 발현 - 1. 염색체.pdf
-
-(https://github.com/conatusss/BIOLOGY_hyper/blob/master/III.%20%EC%9C%A0%EC%A0%84%EC%9E%90%EC%9D%98%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EB%B0%9C%ED%98%84/III.%20%EC%9C%A0%EC%A0%84%EC%9E%90%EC%9D%98%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EB%B0%9C%ED%98%84%20-%201.%20%EC%97%BC%EC%83%89%EC%B2%B4.pdf)
-
-III. 유전자의 구조와 발현 - 2. 유전자의 발현.pdf
-
-(https://github.com/conatusss/BIOLOGY_hyper/blob/master/III.%20%EC%9C%A0%EC%A0%84%EC%9E%90%EC%9D%98%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EB%B0%9C%ED%98%84/III.%20%EC%9C%A0%EC%A0%84%EC%9E%90%EC%9D%98%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EB%B0%9C%ED%98%84%20-%202.%20%EC%9C%A0%EC%A0%84%EC%9E%90%EC%9D%98%20%EB%B0%9C%ED%98%84.pdf)
-!
+   2.  유전자의 발현
